@@ -18,6 +18,7 @@ Por outro lado a plataforma possui uma limitação onde se um determinado projet
 
 ## Galeria de Fotos
 
+<img src="https://github.com/PedroSilva201/imersao_dados_janeiro2026_alura/issues/2#issue-3892592341" alt="Descrição">
 ![imagem1](https://github.com/PedroSilva201/imersao_dados_janeiro2026_alura/issues/2#issue-3892592341)
 ![imagem2](https://github.com/user-attachments/assets/...)
 ![imagem3](https://github.com/user-attachments/assets/...)
