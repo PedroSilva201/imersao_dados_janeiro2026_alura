@@ -15,13 +15,6 @@ O projeto poderá ser visualizado aqui dentro <a href="https://imersao-dados-jan
 O Streamlit é uma plataforma de hospedagens de projetos semelhante ao github pages onde o certame foi usado para subir o projeto e demonstrar o sobre como eu aprendi de acordo com os aprendizados durante a imersão, um fato curioso é que o mesmo brinca como se ele estivesse fazendo alguma comida para voce.
 Por outro lado a plataforma possui uma limitação onde se um determinado projeto não possui entrada de pessoas no site em 24 horas, o mesmo fica no modo de sono até quando alguem entrar e onde ele faz todo o preparo para poder inicar o sistema e poder rodar.
 
-
-## Galeria de Fotos
-
-<img src="https://github.com/PedroSilva201/imersao_dados_janeiro2026_alura/issues/2#issue-3892592341" alt="Descrição">
-![imagem1](https://github.com/PedroSilva201/imersao_dados_janeiro2026_alura/issues/2#issue-3892592341)
-![imagem2](https://github.com/user-attachments/assets/...)
-![imagem3](https://github.com/user-attachments/assets/...)
 ## MAIS PROJETOS
 
 Voce poderá visualizar outros projetos meus dentro deste repositório aqui <a  href="https://github.com/PedroSilva201/anexo_ciencia_de_dados_arquivos_jupyter">Onde eu coloco rascunhos e projetos pessoais referentes a ciencia de dados com Jupyter Notebook</a>
