@@ -18,7 +18,9 @@ Por outro lado a plataforma possui uma limitação onde se um determinado projet
 
 ## Galeria de Fotos
 
-https://github.com/PedroSilva201/imersao_dados_janeiro2026_alura/issues/2#issue-3892592341
+![imagem1](https://github.com/PedroSilva201/imersao_dados_janeiro2026_alura/issues/2#issue-3892592341)
+![imagem2](https://github.com/user-attachments/assets/...)
+![imagem3](https://github.com/user-attachments/assets/...)
 ## MAIS PROJETOS
 
 Voce poderá visualizar outros projetos meus dentro deste repositório aqui <a  href="https://github.com/PedroSilva201/anexo_ciencia_de_dados_arquivos_jupyter">Onde eu coloco rascunhos e projetos pessoais referentes a ciencia de dados com Jupyter Notebook</a>
